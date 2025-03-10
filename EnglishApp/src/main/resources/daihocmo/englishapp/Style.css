@@ -1,0 +1,29 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Mar 10, 2025, 1:35:50 PM
+    Author     : admin
+*/
+
+GridPane{
+    -fx-background-color: lightblue;
+   
+    
+}
+Text.subj{
+     -fx-font-weight:bold;
+    -fx-font-size: 40;
+    -fx-fill:red;
+    -fx-stroke: gold;
+    -fx-stroke-width: 3;
+    
+}
+Button {
+    -fx-background-color: fuchsia;
+    -fx-text-fill: whitesmoke;
+}
+HBox{
+    -fx-spacing:5;
+}
