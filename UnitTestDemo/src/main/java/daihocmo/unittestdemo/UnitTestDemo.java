@@ -12,6 +12,9 @@ public class UnitTestDemo {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
+
         System.out.println("hudhsd 01");
+        System.out.println("hudhsd 02");
+
     }
 }
